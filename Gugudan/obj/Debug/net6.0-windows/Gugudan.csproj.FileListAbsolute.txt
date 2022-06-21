@@ -1,0 +1,17 @@
+C:\Users\lcg80\source\repos\Gugudan\Gugudan\bin\Debug\net6.0-windows\Gugudan.exe
+C:\Users\lcg80\source\repos\Gugudan\Gugudan\bin\Debug\net6.0-windows\Gugudan.deps.json
+C:\Users\lcg80\source\repos\Gugudan\Gugudan\bin\Debug\net6.0-windows\Gugudan.runtimeconfig.json
+C:\Users\lcg80\source\repos\Gugudan\Gugudan\bin\Debug\net6.0-windows\Gugudan.dll
+C:\Users\lcg80\source\repos\Gugudan\Gugudan\bin\Debug\net6.0-windows\Gugudan.pdb
+C:\Users\lcg80\source\repos\Gugudan\Gugudan\obj\Debug\net6.0-windows\Gugudan.csproj.AssemblyReference.cache
+C:\Users\lcg80\source\repos\Gugudan\Gugudan\obj\Debug\net6.0-windows\Gugudan.Form1.resources
+C:\Users\lcg80\source\repos\Gugudan\Gugudan\obj\Debug\net6.0-windows\Gugudan.csproj.GenerateResource.cache
+C:\Users\lcg80\source\repos\Gugudan\Gugudan\obj\Debug\net6.0-windows\Gugudan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lcg80\source\repos\Gugudan\Gugudan\obj\Debug\net6.0-windows\Gugudan.AssemblyInfoInputs.cache
+C:\Users\lcg80\source\repos\Gugudan\Gugudan\obj\Debug\net6.0-windows\Gugudan.AssemblyInfo.cs
+C:\Users\lcg80\source\repos\Gugudan\Gugudan\obj\Debug\net6.0-windows\Gugudan.csproj.CoreCompileInputs.cache
+C:\Users\lcg80\source\repos\Gugudan\Gugudan\obj\Debug\net6.0-windows\Gugudan.dll
+C:\Users\lcg80\source\repos\Gugudan\Gugudan\obj\Debug\net6.0-windows\refint\Gugudan.dll
+C:\Users\lcg80\source\repos\Gugudan\Gugudan\obj\Debug\net6.0-windows\Gugudan.pdb
+C:\Users\lcg80\source\repos\Gugudan\Gugudan\obj\Debug\net6.0-windows\Gugudan.genruntimeconfig.cache
+C:\Users\lcg80\source\repos\Gugudan\Gugudan\obj\Debug\net6.0-windows\ref\Gugudan.dll
